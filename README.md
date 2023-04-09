@@ -22,6 +22,9 @@ Another insight we can observe in the Citi Bike data is during which time and da
   <img width="280" src="https://user-images.githubusercontent.com/117063056/230763165-95a55d9e-00b0-4fa7-ac89-c80cc81c65e8.png">
 </p>
 
+One of the most critical points we could gather from the Citi bike data was the locations from which most users started their trips and the areas in which most users ended their trips.
+
+
 
 
 
