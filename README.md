@@ -10,10 +10,11 @@ When analyzing the data from Citi Bike, we can see in the graph on the left that
 
 <table>
 <tr>
-<td><img src="image1.jpg" alt="Image 1"></td>
-<td><img src="image2.jpg" alt="Image 2"></td>
+<td><img src="![Checkout times for Users](https://user-images.githubusercontent.com/117063056/230762507-5d6f2947-1848-47c8-987c-616d1129d5f5.png)" alt="Image 1"></td>
+<td><img src="![Checkout times by Gender](https://user-images.githubusercontent.com/117063056/230762509-21ebb629-56ab-4c21-999d-7ccc5af6aba3.png)" alt="Image 2"></td>
 </tr>
 </table>
+
 
 
 
