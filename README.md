@@ -18,12 +18,13 @@ Another insight we can observe in the Citi Bike data is during which time and da
 
 <p align="center">
   <img width="280" src="https://user-images.githubusercontent.com/117063056/230763167-51e088cf-659e-4210-a2c7-85ff99ea5cf0.png">
-  <img width="320" src="https://user-images.githubusercontent.com/117063056/230763169-2ac2226d-3308-4e92-8edc-11b06e51b6e5.png">
+  <img width="280" src="https://user-images.githubusercontent.com/117063056/230763169-2ac2226d-3308-4e92-8edc-11b06e51b6e5.png">
   <img width="280" src="https://user-images.githubusercontent.com/117063056/230763165-95a55d9e-00b0-4fa7-ac89-c80cc81c65e8.png">
 </p>
 
 One of the most critical points we could gather from the Citi bike data was the locations from which most users started their trips and the areas in which most users ended their trips.
 
+![Start and End Locations Map](https://user-images.githubusercontent.com/117063056/230763837-ee5bfc1e-7149-4c3d-8d95-fd5a23531d81.png)
 
 
 
