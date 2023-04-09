@@ -32,4 +32,6 @@ One of the most critical points we could gather from the Citi bike data was the 
 
 ## Summary
 
+Based on the analysis of Citi bike data, the service is top-rated in New York City, and it would be feasible to have a similar program in Des Moines. The data shows us a higher range of use in men than women and that bike usage was highest during weekdays and rush hour, indicating a strong potential for commuters.
+Two additional visualizations that could provide more information would be an analysis of data in different seasons in New York, which would give us an idea of when it would be better to launch the project in Des Moines. Another visualization would be of the users' satisfaction when converting the survey results, so they can identify areas to improve the service and better understand the patterns of use.
 
